@@ -5,3 +5,4 @@ virt/
 *.txt
 *.log
 *.idea
+test.py
